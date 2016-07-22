@@ -1,0 +1,11 @@
+# This map is licensed under the GPLv3 https://www.gnu.org/licenses/gpl.txt
+name = '2Fort Arena'
+version = '1.0'
+author = '100best'
+description = 'initial commit'
+extensions = {
+    'arena': True,
+    'arena_blue_spawns' : ((226, 217, 46), (217, 285, 46)),
+    'arena_green_spawns' : ((284, 290, 46), (292, 228, 46)),
+    'arena_gates': ((225, 221, 47), (220, 282, 47), (213, 282, 47), (286, 285, 47), (290, 236, 47), (297, 236, 47))
+}
