@@ -1,4 +1,4 @@
-# This map is licensed under the GPLv3 https://www.gnu.org/licenses/gpl.txt
+# This map is licensed under the GPLv3 or later.  https://www.gnu.org/licenses/gpl.txt
 name = '2Fort Arena'
 version = '1.0'
 author = '100best'
