@@ -1,2 +1,2 @@
 # 100best-pysnip-maps
-2Fort Arena - Vxl clone of TF2 2Fort.
+2fort_arena - VXL remake of 2Fort.
