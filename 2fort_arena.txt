@@ -15,7 +15,7 @@
 name = '2Fort Arena'
 version = '1.0'
 author = '100best'
-description = 'initial commit'
+description = 'VXL remake of 2Fort.'
 extensions = {
     'arena': True,
     'arena_blue_spawns' : ((226, 217, 46), (217, 285, 46)),
