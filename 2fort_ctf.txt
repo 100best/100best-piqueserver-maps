@@ -18,6 +18,7 @@ author = '100best'
 description = 'VXL remake of 2Fort.'
 
 # scripting
+# https://github.com/infogulch/pyspades/wiki/Map-Scripting
 import random
 from pyspades.constants import *
 from pyspades.server import ServerConnection
